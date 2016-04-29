@@ -14,10 +14,9 @@ class ViewController: UIViewController {
     var btnSound : AVAudioPlayer!
     
     @IBOutlet weak var outputLbl : UILabel!
-    
-    kjflsdjf
-    df;sld;fks;d
-    
+    lkfslkdf;
+    dlfk;dskf;
+    kdljfl
     
 
     override func viewDidLoad() {
