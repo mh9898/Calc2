@@ -3,7 +3,7 @@
 //  Calclator
 //
 //  Created by MiciH on 4/28/16.
-//  Copyright © 2016 MicahelH. All rights reserved.
+//  Copyright © 2016 MicahelH. All rights reserved.//
 //
 
 import UIKit
